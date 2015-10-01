@@ -27,11 +27,15 @@ Objeto
 Un objeto es una unidad dentro de un programa de computadora que consta de un estado y de un comportamiento. Cada objeto es capaz de recibir mensajes, procesar datos y enviar mensajes a otros objetos de manera similar a un servicio. Un objeto es el resultado de la instanciación de una clase
 
 Constructores de instancias
+
 Los constructores de instancias se usan para crear e inicializar cualquier variable de miembro de instancia cuando se usa la expresión new para crear un objeto de una clase.
+
 Herencia 
+
 Es la capacidad de crear nuevas clases basándose en clases previamente definidas, de las que se aprovechan ciertos datos y métodos, se desechan otros y se añaden nuevos.
 Sobrecarga
 La sobrecarga se refiere a la posibilidad de tener dos o más funciones con el mismo nombre pero funcionalidad diferente. Es decir, dos o más funciones con el mismo nombre realizando acciones diferentes. El compilador usará una u otra dependiendo de los parámetros usados.
+
 Shadowing 
 
 Se llama shadowing al hecho de que en una clase una variable miembro y una variable local definida en un método miembro, se llamen igual.
